@@ -23,5 +23,3 @@ Contact me if you have a unique request: [![Email](https://img.shields.io/badge/
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=uigitdev&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uigitdev&layout=compact&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
-
-<codersrank-summary username="uigitdev"></codersrank-summary>
