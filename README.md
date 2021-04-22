@@ -1,4 +1,4 @@
-### Hi there, It's David 👋
+### Hi there 👋
 
 ![About](https://img.shields.io/badge/About-uigitdev-grightgreen?labelColor=black)</br>
 Uigitdev is my life, job and more... Which I started on January 11, 2019. I created the page, that I could share my works and references with others. In 2021, we became more than 30,000 on the page. Thanks to everyone who is here and supports me. ❤️
