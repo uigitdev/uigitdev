@@ -1,8 +1,5 @@
-### Hi there 👋
+### Hey there,
 
-![About](https://img.shields.io/badge/About-uigitdev-grightgreen)</br>
-Uigitdev is my life, hobby, job and more... Which I started on January 11, 2019. I created the page, that I could share my works and references with others. In 2021, we became more than 30,000 on the page. Thanks to everyone who is here and supports me.
-<br/><br/>
-Use the <a name="tag" href="https://www.instagram.com/explore/tags/uigitdev/">#uigitdev</a> tag in your posts on [![Instagram](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=grightgreen&labelColor=black)](https://www.instagram.com/uigitdev/)
+It’s David, in a few sentences about my work. On January 11, 2019, I created the Uigitdev page on Instagram in order to publish my development journey. From time to time, I create open source projects on GitHub as well as Flutter projects on the Patreon site. I started my career as an Android developer, but I’ve been using Flutter to develop apps in recent months. In the next period, I will continue in the direction of Flutter.
 <br/><br/>
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=uigitdev) 
